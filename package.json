@@ -4,10 +4,10 @@
   "version": "0.0.1",
   "description": "Exemplo de consumo de api para uso em banco de dados",
   "author": "Felipe Naufal",
-  "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/patetico/Codeforces-API-Consumer/issues"
   },
-  "homepage": "https://github.com/patetico/Codeforces-API-Consumer#readme"
+  "homepage": "https://github.com/patetico/Codeforces-API-Consumer#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
