@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "codeforces-api-consumer",
+  "version": "0.0.1",
+  "description": "Exemplo de consumo de api para uso em banco de dados",
+  "author": "Felipe Naufal",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/patetico/Codeforces-API-Consumer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/patetico/Codeforces-API-Consumer/issues"
+  },
+  "homepage": "https://github.com/patetico/Codeforces-API-Consumer#readme"
+}
